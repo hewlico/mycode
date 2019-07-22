@@ -1,2 +1,9 @@
-This is new
-It is a Github test 
+#!/usr/bin/python3
+x = 27 
+y = "hello"
+z = 55.6
+a = "Python!"
+
+#print function
+print(a,x,y,z,sep="*",end="\n\n\n*******\n")
+  
